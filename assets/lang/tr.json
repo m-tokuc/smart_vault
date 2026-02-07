@@ -1,0 +1,15 @@
+{
+    "settings": "Ayarlar",
+    "currency": "Para Birimi",
+    "language": "Dil",
+    "dashboard": "Panel",
+    "portfolio": "Portföy",
+    "assets": "Varlıklar",
+    "search": "Ara",
+    "total_value": "Toplam Değer",
+    "add_new_asset": "Yeni Varlık Ekle",
+    "total_balance": "Toplam Bakiye",
+    "your_assets": "Varlıkların",
+    "portfolio_empty": "Henüz varlık yok. Yatırım yapmaya başla!",
+    "add_first_asset": "İlk Varlığı Ekle"
+}

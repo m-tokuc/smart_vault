@@ -1,0 +1,15 @@
+{
+  "settings": "Settings",
+  "currency": "Currency",
+  "language": "Language",
+  "dashboard": "Dashboard",
+  "portfolio": "Portfolio",
+  "assets": "Assets",
+  "search": "Search",
+  "total_value": "Total Value",
+  "add_new_asset": "Add New Asset",
+  "total_balance": "Total Balance",
+  "your_assets": "Your Assets",
+  "portfolio_empty": "No assets yet. Start your journey!",
+  "add_first_asset": "Add First Asset"
+}

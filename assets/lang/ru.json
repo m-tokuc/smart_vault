@@ -1,0 +1,11 @@
+{
+    "settings": "Настройки",
+    "currency": "Валюта",
+    "language": "Язык",
+    "dashboard": "Панель",
+    "portfolio": "Портфель",
+    "assets": "Активы",
+    "search": "Поиск",
+    "total_value": "Общая стоимость",
+    "add_new_asset": "Добавить новый актив"
+}

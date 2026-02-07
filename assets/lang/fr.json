@@ -1,0 +1,11 @@
+{
+    "settings": "Paramètres",
+    "currency": "Devise",
+    "language": "Langue",
+    "dashboard": "Tableau de bord",
+    "portfolio": "Portefeuille",
+    "assets": "Actifs",
+    "search": "Rechercher",
+    "total_value": "Valeur totale",
+    "add_new_asset": "Ajouter un nouvel actif"
+}

@@ -1,0 +1,11 @@
+{
+    "settings": "Einstellungen",
+    "currency": "Währung",
+    "language": "Sprache",
+    "dashboard": "Instrumententafel",
+    "portfolio": "Portfolio",
+    "assets": "Vermögenswerte",
+    "search": "Suche",
+    "total_value": "Gesamtwert",
+    "add_new_asset": "Neuen Vermögenswert hinzufügen"
+}

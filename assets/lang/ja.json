@@ -1,0 +1,11 @@
+{
+    "settings": "設定",
+    "currency": "通貨",
+    "language": "言語",
+    "dashboard": "ダッシュボード",
+    "portfolio": "ポートフォリオ",
+    "assets": "資産",
+    "search": "検索",
+    "total_value": "総資産",
+    "add_new_asset": "新しい資産を追加"
+}

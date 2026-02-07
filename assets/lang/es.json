@@ -1,0 +1,11 @@
+{
+    "settings": "Configuración",
+    "currency": "Moneda",
+    "language": "Idioma",
+    "dashboard": "Panel",
+    "portfolio": "Cartera",
+    "assets": "Activos",
+    "search": "Buscar",
+    "total_value": "Valor total",
+    "add_new_asset": "Agregar nuevo activo"
+}
